@@ -36,6 +36,6 @@ void bellman_ford(int source){
 
 int main(int argc, char const *argv[])
 {
-    
+    bellman_ford(1);
     return 0;
 }
